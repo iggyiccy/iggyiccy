@@ -8,7 +8,7 @@
 ```
       
 <details>
-<summary>•┈┈┈••✦ Click To View My GitHub Status ✦••┈┈┈•</summary>
+<summary>•┈┈✦ Click To View My GitHub Status ✦┈┈•</summary>
 <p align="left">
     <img alt = "My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iggyiccy&show_icons=true&theme=dracula&hide=issues&hide_border=true">
     <br>
